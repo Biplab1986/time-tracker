@@ -1,4 +1,4 @@
-package training.taylor.timetracker.core;
+package training.taylor.;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
